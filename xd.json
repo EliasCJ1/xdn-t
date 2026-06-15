@@ -1,7 +1,7 @@
 {
   "update_config": {
     "force_update": false,
-    "apk_url": "https://pon-tu-enlace-aqui.apk",
+    "apk_url": "",
     "version_code": 1
   },
   "live_tv": [
