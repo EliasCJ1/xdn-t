@@ -1,0 +1,81 @@
+{
+  "update_config": {
+    "force_update": false,
+    "apk_url": "https://pon-tu-enlace-aqui.apk",
+    "version_code": 1
+  },
+  "live_tv": [
+    {
+      "id": "la1",
+      "title": "La 1",
+      "description": "",
+      "thumbnail_url": "",
+      "video_url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8",
+      "type": "LIVE_TV",
+      "category": "",
+      "provider": "RTVE"
+    },
+    {
+      "id": "la2",
+      "title": "La 2",
+      "description": "",
+      "thumbnail_url": "",
+      "video_url": "https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8",
+      "type": "LIVE_TV",
+      "category": "",
+      "provider": "RTVE"
+    },
+    {
+      "id": "antena3",
+      "title": "Antena 3",
+      "description": "",
+      "thumbnail_url": "",
+      "video_url": "https://www.atresplayer.com/directos/antena3/",
+      "type": "LIVE_TV",
+      "category": "",
+      "provider": "Atresmedia"
+    },
+    {
+      "id": "cuatro",
+      "title": "Cuatro",
+      "description": "",
+      "thumbnail_url": "",
+      "video_url": "https://www.cuatro.com/en-directo/",
+      "type": "LIVE_TV",
+      "category": "",
+      "provider": "Mediaset"
+    },
+    {
+      "id": "telecinco",
+      "title": "Telecinco",
+      "description": "",
+      "thumbnail_url": "",
+      "video_url": "https://www.telecinco.es/endirecto/",
+      "type": "LIVE_TV",
+      "category": "",
+      "provider": "Mediaset"
+    },
+    {
+      "id": "lasexta",
+      "title": "La Sexta",
+      "description": "",
+      "thumbnail_url": "",
+      "video_url": "https://www.atresplayer.com/directos/lasexta/t",
+      "type": "LIVE_TV",
+      "category": "",
+      "provider": "Atresmedia"
+    },
+    {
+      "id": "dazn1",
+      "title": "DAZN MUNDIAL",
+      "description": "l",
+      "thumbnail_url": "",
+      "video_url": "https://lana7.y2lsrfscenevvihfly.cfd/es/football/fifa-world-cup-4341127/germany-vs-curacao.html?icg=RVM",
+      "type": "LIVE_TV",
+      "category": "",
+      "provider": "DAZN"
+    }
+  ],
+  "movies": [],
+  "series": []
+}
