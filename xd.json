@@ -68,12 +68,12 @@
     {
       "id": "apunt",
       "title": "CMM",
-      "video_url": "https://www.cmmedia.es/play/en-directo/tv",
       "description": "",
       "thumbnail_url": "",
+      "video_url": "https://www.cmmedia.es/play/en-directo/tv",
       "type": "LIVE_TV",
-      "category": "hola mami",
-      "provider": "Xd"
+      "category": "",
+      "provider": "Atresmedia"
     }
   ],
   "movies": [],
