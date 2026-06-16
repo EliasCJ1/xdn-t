@@ -1,7 +1,7 @@
 {
   "update_config": {
-    "force_update": false,
-    "apk_url": "",
+    "force_update": true,
+    "apk_url": "https://download1476.mediafire.com/atfhhbhjatmgZX90L8zeuLEoHn3CU-fB7oufDd10SXRJPIPTn9G1yLGhr-5cStqB-JiZ5Ad9cD4qjoPF44nUcQwVnB8BfL6PShu5HPv7jd4AMCeCByJOvrkK2D5yfC8XDcrdQhBWdI8jRxDCes4lx_aQT0rLDoNNE2dbWw2srEESyg/3u0y5bksqvtmh0z/app.apk",
     "version_code": 1
   },
   "live_tv": [
