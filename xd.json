@@ -64,7 +64,13 @@
       "type": "LIVE_TV",
       "category": "",
       "provider": "Atresmedia"
-    }
+    },
+    {
+      "id": "apunt",
+      "title": "A Punt",
+      "video_url": "https://www.apuntmedia.es/directe",
+      "type": "LIVE_TV",
+      "category": "hola mami"
   ],
   "movies": [],
   "series": []
