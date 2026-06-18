@@ -4,6 +4,9 @@
     "apk_url": "https://download1347.mediafire.com/zxctlvbxqlqg2gcgrzm-8EJLWkCSIaoJzFPtfGO4QmfXnRreyiYLq9fdgbVbjqKkAnr38dLnLSJJIP53Q9_r83TZxo_Zn23tIkdIQnC_JdI0SbgJW3rnxEFfwnDpRIgItRPoDGm5Ucoov1N2eD2v7bVH_u5knLwrQulTJgmU3E3guw/97dr333l94b5du6/app.apk",
     "version_code": 4
   },
+  "authorized_devices": [
+    "639748e75961112e"
+  ],
   "live_tv": [
     {
       "id": "la1",
