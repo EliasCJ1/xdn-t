@@ -5,9 +5,7 @@
     "version_code": 2 
   },
   "authorized_devices": [
-    "ID_DE_LA_TELE_1",
-    "ID_DE_LA_TELE_2"
-  ]
+  ],
   "live_tv": [
     {
       "id": "la1",
