@@ -2,7 +2,7 @@
   "update_config": {
     "force_update": true,
     "apk_url": "https://download1585.mediafire.com/7yzuywamunggeR1V8NY5w7T6JytmJrQnGBlyxh92nOAMGRnJ5aSbXBOX5Js_ID_YdOlE9Sgug5kDUSO8LofaLavDtjYRW1xeLwXFYn-fZyeV3gyMjzO2Y0hkIz-rnE_O1azvi0Rnr37TlV3qcVYz8HOusrqg3fb5bHf8X5GXED4/sbasr6qdkbiaypn/app-debug.apk",
-    "version_code": 7
+    "version_code": 6
   },
   "authorized_devices": [
     "639748e75961112e"
