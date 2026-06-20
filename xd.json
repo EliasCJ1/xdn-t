@@ -2,7 +2,7 @@
   "update_config": {
     "force_update": true,
     "apk_url": "https://download854.mediafire.com/9ymfgrjr93zgBn-Lgaft3O0WlyxjrAUT3OSMDH4HSkxDUrOMMjWem5jgTi7eFU0ciww6ovBrLPbqDgAxIg8DXe0-Cd0rF9QQTIXFG3xySx9WG9wg_vMeOMcgHJunTAGdk6akxIUqF-yzPz-Bj1rfOuBc94JH1nzOdUOXgHlv6zk/sbasr6qdkbiaypn/app-debug.apk",
-    "version_code": 5
+    "version_code": 6
   },
   "authorized_devices": [
     "639748e75961112e"
