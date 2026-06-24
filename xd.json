@@ -1,12 +1,9 @@
 {
   "update_config": {
     "force_update": true,
-    "apk_url": "https://download1585.mediafire.com/7yzuywamunggeR1V8NY5w7T6JytmJrQnGBlyxh92nOAMGRnJ5aSbXBOX5Js_ID_YdOlE9Sgug5kDUSO8LofaLavDtjYRW1xeLwXFYn-fZyeV3gyMjzO2Y0hkIz-rnE_O1azvi0Rnr37TlV3qcVYz8HOusrqg3fb5bHf8X5GXED4/sbasr6qdkbiaypn/app-debug.apk",
+    "apk_url": "https://download1589.mediafire.com/r3oyw7sce4mglfCUrt0LWbzv_E8YnynjDfQWRjGj2eaQYxIRoxWipDGkV_WpCuaCImzRzFW7pn0BE7oOAT2TuVB62Fp48PX0NFwJTsjPGH1sHTxcCI1O7Sksg3vloCItVTYu1B7IIaU3lPuW_neEWCg_CXY4QrhWjcZTCNrHn_NhW5c/sbasr6qdkbiaypn/app-debug.apk",
     "version_code": 6
   },
-  "authorized_devices": [
-    "f4ccd258a6a5276f"
-  ],
   "live_tv": [
     {
       "id": "la1",
