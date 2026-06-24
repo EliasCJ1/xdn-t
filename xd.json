@@ -4,6 +4,9 @@
     "apk_url": "https://download1589.mediafire.com/r3oyw7sce4mglfCUrt0LWbzv_E8YnynjDfQWRjGj2eaQYxIRoxWipDGkV_WpCuaCImzRzFW7pn0BE7oOAT2TuVB62Fp48PX0NFwJTsjPGH1sHTxcCI1O7Sksg3vloCItVTYu1B7IIaU3lPuW_neEWCg_CXY4QrhWjcZTCNrHn_NhW5c/sbasr6qdkbiaypn/app-debug.apk",
     "version_code": 6
   },
+  "authorized_devices": [
+    ""
+  ],
   "live_tv": [
     {
       "id": "la1",
