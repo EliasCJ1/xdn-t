@@ -2,7 +2,7 @@
   "update_config": {
     "force_update": true,
     "apk_url": "http://192.168.1.134:8000/uploads/app-debug.apk",
-    "version_code": 7
+    "version_code": 9
   },
   "authorized_devices": [
     "639748e75961112e",
