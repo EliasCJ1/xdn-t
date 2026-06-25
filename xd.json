@@ -83,7 +83,7 @@
   "movies": [
     {
       "id": "pel1",
-      "title": "Nombre de la Película",
+      "title": "Nombre de la ícula",
       "description": "Una breve descripción de lo que trata.",
       "thumbnail_url": "https://enlace-a-la-imagen.jpg",
       "video_url": "https://enlace-al-video.m3u8",
