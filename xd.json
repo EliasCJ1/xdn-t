@@ -82,7 +82,7 @@
   ],
   "movies": [
     {
-      "id": "peli01",
+      "id": "pel1",
       "title": "Nombre de la Película",
       "description": "Una breve descripción de lo que trata.",
       "thumbnail_url": "https://enlace-a-la-imagen.jpg",
